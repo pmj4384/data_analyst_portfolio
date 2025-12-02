@@ -6,8 +6,10 @@
 
 | Project | Description | Key Skills | Tech Stack | Live Demo |
 |---------|-------------|------------|------------|-----------|
-| **[Netflix Content Analysis](https://github.com/pmj4384/SQL_project_2)** | Analyzes 11K+ Netflix titles answering 15 business questions (genres, ratings, countries, directors) | Window functions (`RANK`), `UNNEST`, string cleaning, CTEs, date parsing | **PostgreSQL**, SQL | [View Repo](https://github.com/pmj4384/SQL_project_2) |
 | **[Retail Sales Analysis](https://github.com/pmj4384/SQL_project_1)** | Analyzes retail sales trends, customer behavior, product performance, and time-of-day patterns | Aggregations (`SUM`, `AVG`), window functions (`RANK`), `EXTRACT`, `CASE WHEN` | **PostgreSQL**, SQL | [View Repo](https://github.com/pmj4384/SQL_project_1) |
+| **[Netflix Content Analysis](https://github.com/pmj4384/SQL_project_2)** | Analyzes 11K+ Netflix titles answering 15 business questions (genres, ratings, countries, directors) | Window functions (`RANK`), `UNNEST`, string cleaning, CTEs, date parsing | **PostgreSQL**, SQL | [View Repo](https://github.com/pmj4384/SQL_project_2) |
+| **[Spotify Data Analysis](https://github.com/pmj4384/SQL_project_3)** | SQL analysis of Spotify tracks combining audio features, streams, and YouTube metrics to uncover top performers and music trends | Window functions (`DENSE_RANK`, `PARTITION BY`), CTEs, aggregations, data cleaning, conditional logic | **PostgreSQL**, SQL | [View Repo](https://github.com/pmj4384/SQL_project_3) |
+| **[Monday Coffee Sales Analysis](https://github.com/pmj4384/SQL_project_4)** | Analyzes coffee sales data by city, products, and customers to understand market demand and growth trends | Aggregate functions, window functions (`DENSE_RANK`, `LAG`), CTEs, relational joins, date filtering | **PostgreSQL**, SQL | [View Repo](https://github.com/pmj4384/SQL_project_4) |
 
 ## Technical Skills
 
